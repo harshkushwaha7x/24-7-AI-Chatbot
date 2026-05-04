@@ -340,10 +340,6 @@ Potential improvements and extensions:
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## License
-
-This project is open source and available under the MIT License.
-
 ## Author
 
 Developed by Harsh Kushwaha
@@ -355,3 +351,9 @@ GitHub: [harshkushwaha7x](https://github.com/harshkushwaha7x)
 - Built with LangGraph and LangChain
 - Powered by OpenAI's language models
 - Inspired by real-world customer support challenges
+
+## Support
+
+For issues, questions, or feature requests:
+- Open an issue on [GitHub](https://github.com/harshkushwaha7x/intelligent-doc-assistant/issues)
+- Email: harshkushwaha4151@gmail.com
